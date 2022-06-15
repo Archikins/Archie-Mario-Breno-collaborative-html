@@ -1,3 +1,12 @@
 body{
-    background: #BDBDBD;
+    background: #FFFFFF;
+}
+
+#bigHeroImage {
+    background: url('https://images8.alphacoders.com/282/thumb-1920-282535.jpg') center center;
+    background-size: cover;
+}
+
+.bg-opacity-white {
+    background-color:rgba(255, 255, 255, 0.5);
 }
